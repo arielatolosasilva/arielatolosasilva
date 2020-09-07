@@ -16,9 +16,14 @@
 #### Blandas 
 
 -Trabajo en equipo  
+
 -Creatividad
+
 -Capacidad de dar y recibir feedback
+
 -Pensamiento crítico
+
 -Compromiso
+
 -Adaptación al cambio
 
