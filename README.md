@@ -4,9 +4,9 @@
                                            
 # Hola,Soy Ariela 
 
-## Mis habilidades :
+### Mis habilidades :
 
-### Tecnicas 
+#### Tecnicas 
    ![Image of html](https://i.ibb.co/TR6VshH/html.png)        ![Image of js](https://i.ibb.co/qLHXTp6/js.png)
    ![Image of css](https://i.ibb.co/tHnFZ7D/css.png)          ![Image of node](https://i.ibb.co/tZwMyBc/node.png)
    ![Image of react](https://i.ibb.co/30J3LzW/react.png)      ![Image of fireb](https://i.ibb.co/rtsCHmc/firebase.png)
