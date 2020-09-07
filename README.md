@@ -1,5 +1,8 @@
-### Hi there 👋
-![Image of front](https://i.ibb.co/4KMwqY3/front2-0.png)
+
+                                           ![Image of front](https://i.ibb.co/4KMwqY3/front2-0.png)
+                                           
+                                           
+### Hola,Soy Ariela 
 <!--
 **arielatolosasilva/arielatolosasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
