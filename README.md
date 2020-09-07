@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Image of Yaktocat](https://ibb.co/Gnkf6tN)
+![Image of front](https://i.ibb.co/4KMwqY3/front2-0.png)
 <!--
 **arielatolosasilva/arielatolosasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
