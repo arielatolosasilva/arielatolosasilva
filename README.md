@@ -3,6 +3,11 @@
                                            
                                            
 ### Hola,Soy Ariela 
+
+Profesional comprometida ![Image of front](https://gccproyectos.com/wp-content/uploads/2018/02/gcc-iconos-compromiso-300x300.png), persevero con eficacia en los objetivos que se me presentan, siempre en búsqueda de conocimiento que pueda enriquecerme tanto en lo personal como en lo profesional, es por este motivo, que decidí dar un giro en mi vida laboral y comenzar un nuevo camino en el ámbito de la tecnología.
+Inicié en este mundo, gracias al Bootcamp intensivo en Laboratoria, lo que me permitió descubrir que, a través de soluciones tecnológicas, tengo la posibilidad de ayudar a otras personas a concretar sus metas y así, adquirir una verdadera vocación por el desarrollo web.
+Durante 8 años dediqué mi vida laborar al ámbito de la Kinesiología Dermatofuncional, donde trabajaba directamente con tecnología de punta respectiva a esta área y en constante capacitación, teniendo relación directa con usuarios y siempre junto a equipos multidisciplinarios.
+
 <!--
 **arielatolosasilva/arielatolosasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
