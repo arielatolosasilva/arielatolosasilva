@@ -1,5 +1,5 @@
 
-                                           ![Image of front](https://i.ibb.co/4KMwqY3/front2-0.png)
+   ![Image of front](https://i.ibb.co/4KMwqY3/front2-0.png)
                                            
                                            
 ### Hola,Soy Ariela 
